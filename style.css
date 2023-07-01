@@ -231,6 +231,9 @@ a:hover{text-decoration: none; cursor:pointer;}
 /* = Bric adjustment margins
 -------------------------------------------------------------- */
 
+.mg-clear{
+	margin:0;
+}
 .mg-md{
 	margin-top:10px;
 	margin-bottom:20px;
@@ -430,6 +433,20 @@ a[data-lightbox]:hover img{
 	pointer-events:none;
 }
 
+/* Framless */
+.frameless-lb{
+	border-radius: 0;
+	border:none;
+}
+.frameless-lb .modal-body{
+	padding:0;
+}
+.frameless-lb .lightbox-caption{
+	left:0;
+	right:0;
+	bottom:-16px;
+}
+
 /* = Custom Styling
 -------------------------------------------------------------- */
 
@@ -454,6 +471,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .navbar-brand img{
 	width:90px;
 	height:70px;
+}
+.h3-merch-style{
+	font-size:80px;
 }
 
 /* = Colour

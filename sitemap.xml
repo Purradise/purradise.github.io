@@ -1,32 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-	<loc>https://purradise.pt</loc>
+	<loc>https://purradise.github.io/</loc>
 	<lastmod>2023-07-01</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
-	<image:loc>https://purradise.pt/img/purradise.png</image:loc>
+	<image:loc>https://purradise.github.io/img/purradise.png</image:loc>
 	<image:title>purradise</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://purradise.pt/img/purradise.webp</image:loc>
+	<image:loc>https://purradise.github.io/img/purradise.webp</image:loc>
 	<image:title>purradise</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://purradise.pt/img/image.png</image:loc>
+	<image:loc>https://purradise.github.io/img/image.png</image:loc>
 	<image:title>placeholder image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://purradise.pt/img/image.webp</image:loc>
+	<image:loc>https://purradise.github.io/img/image.webp</image:loc>
 	<image:title>placeholder image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://purradise.pt/img/</image:loc>
+	<image:loc>https://purradise.github.io/img/placeholder-image-wide.png</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://purradise.github.io/img/placeholder-image-wide.webp</image:loc>
+	<image:title>slide 1</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://purradise.github.io/img/placeholder-image-wide.png</image:loc>
+	<image:title>slide 2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://purradise.github.io/img/placeholder-image-wide.webp</image:loc>
+	<image:title>slide 2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://purradise.github.io/img/placeholder-image-wide.png</image:loc>
+	<image:title>slide 3</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://purradise.github.io/img/placeholder-image-wide.webp</image:loc>
+	<image:title>slide 3</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://purradise.github.io/img/placeholder-image-wide.png</image:loc>
+	<image:title>placeholder image-wide</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://purradise.github.io/img/placeholder-image-wide.webp</image:loc>
+	<image:title>placeholder image-wide</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://purradise.github.io/img/cat3502.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://purradise.github.io/img/cat3502.webp</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://purradise.github.io/img/cat74.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://purradise.github.io/img/cat74.webp</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://purradise.github.io/img/cat3313.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://purradise.github.io/img/cat3313.webp</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://purradise.github.io/img/cat3009.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://purradise.github.io/img/cat3009.webp</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://purradise.github.io/img/cat4313.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://purradise.github.io/img/cat4313.webp</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://purradise.github.io/img/cat4145.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://purradise.github.io/img/cat4145.webp</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://purradise.github.io/img/cat1328.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://purradise.github.io/img/cat1328.webp</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://purradise.github.io/img/cat3837.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://purradise.github.io/img/cat3837.webp</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://purradise.github.io/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://purradise.pt/img/</image:loc>
+	<image:loc>https://purradise.github.io/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://purradise.github.io/merch/</loc>
+	<lastmod>2023-07-01</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://purradise.github.io/img/placeholder-image-sq.png</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://purradise.github.io/img/placeholder-image-sq.webp</image:loc>
+	<image:title>placeholder image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://purradise.github.io/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://purradise.github.io/img/</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
